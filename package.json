@@ -1,0 +1,34 @@
+{
+    "name": "poi-plugin-fleet-info",
+    "version": "1.0.0",
+    "description": "record & share fleet",
+    "main": "index.js",
+    "author": {
+        "name": "ggg17226",
+        "url": "https://github.com/ggg17226"
+    },
+    "license": "MIT",
+    "scripts": {
+        "start": "node main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ggg17226/plugin-fleet-info.git"
+    },
+    "keywords": [
+        "kancolle",
+        "poi",
+        "plugin",
+        "fleet"
+    ],
+    "bugs":{
+        "url":"https://github.com/ggg17226/plugin-fleet-info/issues"
+    },
+    "homepage": "https://github.com/ggg17226/plugin-fleet-info",
+    "poiPlugin": {
+        "title": "poi-plugin-fleet-info",
+        "description": "record & share fleet",
+        "i18nDir": "i18n"
+    }
+}
